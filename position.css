@@ -1,0 +1,50 @@
+body {
+	background-image: url("xv.png");
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	padding: 20px;
+	text-align: center;
+}
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
+footer {
+	position :fixed;
+	bottom: 10px;
+	text-align: center;
+	right: 100px;
+	left: 100px;
+	border: 1px solid ;
+	background-color: lightgrey;
+}
+nav {
+	position: fixed;
+	top: 20px;
+	right: 100px;
+	left: 100px;
+}
+article {
+	text-align: justify;
+	left: 10px;
+}
+#article1.section1 {
+	position:relative;
+	top: 10px;
+	left: 10px;
+}
+#article1 p {
+	position: relative;
+	
+}
