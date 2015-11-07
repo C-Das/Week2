@@ -40,7 +40,7 @@ article {
 	left: 10px;
 }
 #article1.section1 {
-	position:relative;
+	position:fixed;
 	top: 10px;
 	left: 10px;
 }
